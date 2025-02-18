@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3APbrXPW3I=",
+  "success": true,
+  "projectFilePath": "/home/alan/Área de trabalho/C#/projetos/04_operadores_operacoes/04.csproj",
+  "expectedPackageFiles": [
+    "/home/alan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
