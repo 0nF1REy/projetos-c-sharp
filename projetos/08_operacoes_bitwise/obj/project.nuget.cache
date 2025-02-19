@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "krclSlxqMPk=",
+  "dgSpecHash": "6jin63fVHUw=",
   "success": true,
-  "projectFilePath": "/home/alan/Área de trabalho/C#/projetos/01/01.csproj",
+  "projectFilePath": "/home/alan/Área de trabalho/C#/projetos/08/08.csproj",
   "expectedPackageFiles": [
     "/home/alan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
   ],

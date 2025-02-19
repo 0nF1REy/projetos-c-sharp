@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alan/Área de trabalho/C#/projetos/01/01.csproj",
-      "projectName": "01",
-      "projectPath": "/home/alan/Área de trabalho/C#/projetos/01/01.csproj",
+      "projectUniqueName": "/home/alan/Área de trabalho/C#/projetos/06/06.csproj",
+      "projectName": "06",
+      "projectPath": "/home/alan/Área de trabalho/C#/projetos/06/06.csproj",
       "packagesPath": "/home/alan/.nuget/packages/",
-      "outputPath": "/home/alan/Área de trabalho/C#/projetos/01/obj/",
+      "outputPath": "/home/alan/Área de trabalho/C#/projetos/06/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alan/.nuget/NuGet/NuGet.Config"

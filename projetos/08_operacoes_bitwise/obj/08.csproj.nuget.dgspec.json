@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alan/Área de trabalho/C#/projetos/01/01.csproj": {}
+    "/home/alan/Área de trabalho/C#/projetos/08/08.csproj": {}
   },
   "projects": {
-    "/home/alan/Área de trabalho/C#/projetos/01/01.csproj": {
+    "/home/alan/Área de trabalho/C#/projetos/08/08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alan/Área de trabalho/C#/projetos/01/01.csproj",
-        "projectName": "01",
-        "projectPath": "/home/alan/Área de trabalho/C#/projetos/01/01.csproj",
+        "projectUniqueName": "/home/alan/Área de trabalho/C#/projetos/08/08.csproj",
+        "projectName": "08",
+        "projectPath": "/home/alan/Área de trabalho/C#/projetos/08/08.csproj",
         "packagesPath": "/home/alan/.nuget/packages/",
-        "outputPath": "/home/alan/Área de trabalho/C#/projetos/01/obj/",
+        "outputPath": "/home/alan/Área de trabalho/C#/projetos/08/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alan/.nuget/NuGet/NuGet.Config"
