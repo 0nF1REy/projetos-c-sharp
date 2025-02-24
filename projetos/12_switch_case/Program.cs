@@ -6,6 +6,11 @@ class Program {
         // Declaração de variáveis
         int tempo = 0;
         char escolha;
+        string msg_final = "Fim do programa!";
+
+        inicio:
+
+        Console.Clear();
 
         Console.WriteLine("Belo Horizonte/MG a Vitória/ES");
         Console.WriteLine("Escolha o transporte:[a]Avião | [c]Carro | [o]Ônibus ");
@@ -34,6 +39,15 @@ class Program {
             Console.WriteLine("Transporte indisponível!");
         } else {
             Console.WriteLine("Para o transporte escolhido o tempo é: {0} minutos",tempo);
+        }
+
+        Console.Write("Calcular outro transporte?[S/n]");
+        escolha = char.Parse(Console.ReadLine());
+        if (escolha == 's' || escolha == 'S') {
+            goto inicio;
+        } else {
+            Console.Clear();
+            Console.WriteLine(msg_final);
         }
     }
 }
