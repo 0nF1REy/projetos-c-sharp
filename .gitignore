@@ -1,12 +1,12 @@
-# Ignorar diretórios de build
+# Diretórios de build
 bin/
 obj/
 
-# Ignorar arquivos temporários do Visual Studio e caches
+# Arquivos temporários do Visual Studio e caches
 *.suo
 *.user
 *.cache
 *.log
 
-# Ignorar pacotes NuGet baixados localmente
+# Pacotes NuGet baixados localmente
 packages/
