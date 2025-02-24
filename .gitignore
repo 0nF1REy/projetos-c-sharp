@@ -10,5 +10,3 @@ obj/
 
 # Ignorar pacotes NuGet baixados localmente
 packages/
-
-Performed the addition of new files and directories to be ignored. Added comments
