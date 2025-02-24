@@ -1,1 +1,12 @@
-C#.sln
+# Ignorar diretórios de build
+bin/
+obj/
+
+# Ignorar arquivos temporários do Visual Studio e caches
+*.suo
+*.user
+*.cache
+*.log
+
+# Ignorar pacotes NuGet baixados localmente
+packages/
