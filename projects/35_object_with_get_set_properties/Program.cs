@@ -2,7 +2,7 @@
 
 namespace object_with_get_set_properties
 {
-    internal class Pessoa
+    internal class Pessoa // Pessoa.cs
     {
         private int id;
         private int idade;
@@ -15,7 +15,7 @@ namespace object_with_get_set_properties
         public string Celular { get { return celular; } set { celular = value; } }
     }
 
-    internal class Program
+    internal class Program // Program.cs
     {
         static void Main(string[] args)
         {
