@@ -1,10 +1,17 @@
-# Projetos C#
+<h1 align="center">
+  Projetos C#
+</h1>
 
-Este repositório contém uma coleção abrangente de projetos práticos em C# que cobrem desde conceitos fundamentais até tópicos avançados da linguagem e do framework .NET.
+<div align="center">
 
-## 📚 Sobre o Repositório
+![Maintenance](https://img.shields.io/maintenance/yes/2025?style=for-the-badge)
+![License MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
-Este repositório reúne exercícios práticos desenvolvidos em C#, organizados em módulos numerados que exploram diversos conceitos e funcionalidades da linguagem. Cada módulo é independente e foca em um aspecto específico do desenvolvimento.
+</div>
+
+## 📖 Descrição
+
+Este repositório reúne uma coleção de projetos práticos em C#, organizados em módulos numerados. Cada módulo é independente e aborda diferentes conceitos da linguagem e do framework .NET, desde fundamentos até tópicos mais avançados.
 
 ## 🎯 Objetivos de Aprendizado
 
